@@ -130,15 +130,17 @@
 </section>
 
 <section class="grid">
-  <div class="card"><img src="Img.jpg" alt="Photo"></div>
-  <div class="card"><img src="Img1.jpg" alt="Photo 1"></div>
-  <div class="card"><img src="Img2.jpg" alt="Photo 2"></div>
+  <div class="card"><img src="Image(1).jpg" alt="Photo"></div>
+  <div class="card"><img src="Image(2).jpg" alt="Photo 1"></div>
+{*/
+<div class="card"><img src="Img2.jpg" alt="Photo 2"></div>
   <div class="card"><img src="Img3.jpg" alt="Photo 3"></div>
   <div class="card"><img src="Img4.jpg" alt="Photo 4"></div>
   <div class="card"><img src="Img5.jpg" alt="Photo 5"></div>
   <div class="card"><img src="Img6.jpg" alt="Photo 6"></div>
   <div class="card"><img src="Img7.jpg" alt="Photo 7"></div>
   <div class="card"><img src="Img8.jpg" alt="Photo 8"></div>
+/*}
 </section>
 
 <div class="controls">
@@ -147,7 +149,7 @@
 </div>
 
 <audio id="bg-music" loop>
-  <source src="baitikochi.mp3.mp3" type="audio/mp3">
+  <source src="Bar-Bar-Din-Ye-Aaye.mp3.mp3" type="audio/mp3">
 </audio>
 
 <canvas id="fireworks"></canvas>
